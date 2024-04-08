@@ -1,5 +1,5 @@
 ```
-git clone git@github.com:KihongHeo/environment.git
+git clone https://github.com/LuZack/environment/
 cd environment
 ./setup.sh
 ```
